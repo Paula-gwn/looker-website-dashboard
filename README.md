@@ -1,3 +1,16 @@
-# looker-website-dashboard
-I used Looker Studio to create an interactive dashboard that shows key performance indicators (KPIs), traffic trends, user behavior, and geographic distribution.
+# 🧾 Google Merchandise Store Performance Dashboard
 
+This dashboard visualizes key web performance data from the Google Analytics Demo Account (Google Merchandise Store).
+
+🔗 **Live Dashboard**: [View here](https://lookerstudio.google.com/reporting/your-link)
+
+## 🔍 Metrics Visualized:
+- Total Users, Sessions, Revenue, Transactions
+- Time-based traffic trends
+- Geographic distribution of users
+- Top traffic sources
+- Device breakdown
+
+## 📊 Tools Used:
+- Google Analytics (Demo)
+- Looker Studio

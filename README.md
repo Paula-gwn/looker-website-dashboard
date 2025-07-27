@@ -2,7 +2,7 @@
 
 This dashboard visualizes key web performance data from the Google Analytics Demo Account (Google Merchandise Store).
 
-🔗 **Live Dashboard**: [View here](https://lookerstudio.google.com/reporting/your-link)
+🔗 **Live Dashboard**: [View here](https://lookerstudio.google.com/s/rxnOXEw66hg)
 
 ## 🔍 Metrics Visualized:
 - Total Users, Sessions, Revenue, Transactions
